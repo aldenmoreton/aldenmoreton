@@ -7,4 +7,9 @@ I am a student at the University of Alabama currently Studying Computer Science
 
 [linkedin]: https://linkedin.com/in/alden-moreton
 
+
+</br>
+
+
+
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
