@@ -10,7 +10,7 @@ I am a student at the University of Alabama currently Studying Computer Science
 [<img align="left" alt="aldenmoreton | LinkedIn" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)              
 
-<div>
+[<div>
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
@@ -20,4 +20,4 @@ I am a student at the University of Alabama currently Studying Computer Science
 
 </div>
 
-</div>
+</div>]
