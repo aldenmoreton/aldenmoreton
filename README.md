@@ -1,16 +1,7 @@
 <div align="center">
 	<h1><b>Alden Moreton</b></h1>
-	<p>Computer Science Student at the University of Alabama</p>
+	<p>Software Engineer at <a href="https://www.reliant-tec.com/">Reliant Technologies</a></p>
 </div>
-
-## **About**
-<p>
-	<b>Featured Projects:</b>
-	<ul>
-		<li><a href="https://gist.github.com/aldenmoreton">Algorithms</a></li>
-		<li><a href="https://github.com/aldenmoreton/ASCIISign">ASCII Sign Generator</a></li>
-	</ul>
-</p>
 
 ## **Connect With Me**
 [linkedin]: https://linkedin.com/in/alden-moreton
